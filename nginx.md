@@ -118,7 +118,7 @@ sudo systemctl reload nginx
 
 ## 8. Update our repo post-receive
 
-if you have gone througn <a href="post-receive.md">this</a>
+if you have gone through <a href="post-receive.md">this</a>
 
 ```
 cd /var/repo/myproject.git/hooks/
